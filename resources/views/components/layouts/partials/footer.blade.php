@@ -1,0 +1,3 @@
+<footer>
+	<P></P>
+</footer>

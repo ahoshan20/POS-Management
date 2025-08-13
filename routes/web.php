@@ -31,3 +31,5 @@ Route::middleware('auth')->group(function () {
 // Route::get('/', function () {
 //     return Auth::check() ? redirect()->route('welcome') : redirect()->route('login');
 // });
+
+require __DIR__ . '/frontend.php';
